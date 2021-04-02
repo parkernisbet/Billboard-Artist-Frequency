@@ -1,4 +1,4 @@
-# Billboard-Artist-Frequency
+# Billboard Artist Frequency
 
 Analysis covering the weekly Billboard Top 100 list, from 1958-08-09 to 2020-06-27, to highlight artists who frequent said lists more commonly as supporting (rather than main) artists. Historical song data was scraped from Billboard.com then parsed into multiple dataframes for later analysis and data visualization.
 
